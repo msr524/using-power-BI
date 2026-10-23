@@ -1,8 +1,26 @@
-# using-power-BI
-## 📈 Task 3: Interactive Dashboard
-* **Objective:** Build a professional, dynamic dashboard to communicate main findings and KPIs clearly to stakeholders[span_0](start_span)[span_0](end_span).
-* **Tools Used:** Microsoft Power BI[span_1](start_span)[span_1](end_span)[span_2](start_span)[span_2](end_span).
-* **Features Included:**
-  * **Sales Analysis:** Visualized total amounts and performance across various products[span_3](start_span)[span_3](end_span).
-  * **Profitability Breakdown:** Donut charts illustrating profit percentages per product[span_4](start_span)[span_4](end_span).
-  * **Interactive Slicers:** Country filters (Australia, Canada, India, USA, etc.) allowing real-time cross-filtering across all visuals[span_5](start_span)[span_5](end_span).
+# 🍫 Chocolate Sales & Supply Chain Analytics Dashboard
+
+Welcome to my Business Intelligence project repository. This project analyzes a comprehensive chocolate sales and shipment dataset using Microsoft Power BI to uncover revenue trends, top-performing products, sales representative performance, and geographic distributions.
+
+---
+
+## 📊 Project Overview & Key Metrics
+* **Total Sales Revenue:** 141.49M
+* **Total Shipment Volume:** 9M boxes across 25K shipments
+* **Total Profit:** 81.10M
+
+---
+
+## 🚀 Dashboard Features & Visualizations
+* **Time-Series Trend Analysis:** Tracks Current Year (CY) vs. Prior Year (PY) performance for total sales and shipment boxes.
+* **Shipment Distribution:** Histogram mapping shipment counts by box bins.
+* **Product Performance:** Treemap illustrating the distribution of total amounts across products (e.g., 85% Dark Bars, 99% Dark & Pure, Eclairs, Organic Choco Syrup).
+* **Geographic Slicers & Share:** Donut chart analyzing total amounts broken down by country (India, New Zealand, Australia, USA, UK).
+* **Leaderboards:** Top 10 tables highlighting top sales representatives (John, Suman, Raghuveer, etc.) and top products by revenue and profit.
+
+---
+
+## 🛠️ Tools & Technologies Used
+* **Microsoft Power BI:** Data modeling, DAX measures, and interactive UI design.
+* **Data Cleansing & Transformation:** Power Query.
+*
